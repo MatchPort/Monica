@@ -20,6 +20,22 @@ Download the latest release, extract it and open `Monica.exe`!
 After opening monica you can use the built in .monica builder. To use our built in builder click 2 on the main screen.
 
 To build your own .monica file simply just create a new file with the schema: `Name.Monica` and fill the file with urls!
+
+Monica also logs exchanges in the logs folder. Example of logs: (exchanged example.com to showcase.lol)
+```
+// START OF MONICA LOG //
+showcase.lol/api/v2/auth
+showcase.lol/api/v2/login
+showcase.lol/api/v2/createaccount
+
+Exchange Log:
+example.com/api/v2/auth → showcase.lol/api/v2/auth
+example.com/api/v2/login → showcase.lol/api/v2/login
+example.com/api/v2/createaccount → showcase.lol/api/v2/createaccount
+// END OF LOG //
+
+```
+
 ## Troubleshooting 💫
 
 Incase the file doesn't run please make sure you have dotnet installed.
