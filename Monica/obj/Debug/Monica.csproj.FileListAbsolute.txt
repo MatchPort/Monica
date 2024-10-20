@@ -1,0 +1,9 @@
+C:\Users\fusi\source\repos\Monica\Monica\bin\Debug\Monica.exe.config
+C:\Users\fusi\source\repos\Monica\Monica\bin\Debug\Monica.exe
+C:\Users\fusi\source\repos\Monica\Monica\bin\Debug\Monica.pdb
+C:\Users\fusi\source\repos\Monica\Monica\bin\Debug\Colorful.Console.dll
+C:\Users\fusi\source\repos\Monica\Monica\obj\Debug\Monica.csproj.AssemblyReference.cache
+C:\Users\fusi\source\repos\Monica\Monica\obj\Debug\Monica.csproj.CoreCompileInputs.cache
+C:\Users\fusi\source\repos\Monica\Monica\obj\Debug\Monica.csproj.Up2Date
+C:\Users\fusi\source\repos\Monica\Monica\obj\Debug\Monica.exe
+C:\Users\fusi\source\repos\Monica\Monica\obj\Debug\Monica.pdb
