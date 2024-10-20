@@ -33,7 +33,6 @@ example.com/api/v2/auth → showcase.lol/api/v2/auth
 example.com/api/v2/login → showcase.lol/api/v2/login
 example.com/api/v2/createaccount → showcase.lol/api/v2/createaccount
 // END OF LOG //
-
 ```
 
 ## Troubleshooting 💫
