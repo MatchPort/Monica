@@ -3,7 +3,6 @@
 
 Monica is a compact software to exchanger urls and start up custom servers! 
 
-![image](https://github.com/user-attachments/assets/643fcb0a-ac35-450e-a536-90868caefc12)
 
 
 
